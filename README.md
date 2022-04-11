@@ -8,8 +8,6 @@
 
 👨‍💻 View my work on [kiril.ch](https://www.kiril.ch)
 
-📄 You can view my experiences on [LinkedIn](https://www.linkedin.com/in/kiriltucker/)
-
 🌎 I speak French, Spanish and English fluently
 
 **Connect with me:**
