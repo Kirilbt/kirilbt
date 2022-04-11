@@ -8,17 +8,13 @@
 
 👨‍💻 View my work on [kiril.ch](https://www.kiril.ch)
 
-📄 You can view my experiences on [linkedin](https://www.linkedin.com/in/kiriltucker/)
+📄 You can view my experiences on [LinkedIn](https://www.linkedin.com/in/kiriltucker/)
 
 🌎 I speak French, Spanish and English fluently
 
 **Connect with me:**
 
-- <a href="https://linkedin.com/in/kiriltucker" target="blank">LinkedIn</a>
-
-- <a href="https://twitter.com/kirilbt" target="blank">Twitter</a>
-
-- <a href="https://codepen.io/kirilbt" target="blank">Codepen</a>
+<a href="https://linkedin.com/in/kiriltucker" target="blank">LinkedIn</a> - <a href="https://twitter.com/kirilbt" target="blank">Twitter</a> - <a href="https://codepen.io/kirilbt" target="blank">Codepen</a> - <a href="https://vercel.com/kirilbt" target="blank">Vercel</a> - <a href="https://dribbble.com/kirilbt" target="blank">Dribble</a>
 
 ---
 **Some of the tools I'm using:**
