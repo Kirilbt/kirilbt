@@ -7,7 +7,7 @@
 
 💬 Ask me about **design, photography and creative coding**
 
-📄 Know about my [experiences](https://www.linkedin.com/in/kiriltucker/)
+📄 You can view my experiences [here](https://www.linkedin.com/in/kiriltucker/)
 
 <h3>Connect with me:</h3>
 <p>
