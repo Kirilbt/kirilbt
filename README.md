@@ -1,5 +1,5 @@
 <h1>Hey, I'm Kiril</h1>
-<h2>A passionate freelance UI designer & frontend developer from Switzerland</h2>
+<h3>A passionate freelance UI designer & frontend developer from Switzerland</h3>
 
 
 🔭 I’m open for a job or internship as a frontend dev
@@ -14,7 +14,7 @@
 
 🌎 I speak French, Spanish and English fluently
 
-<h2>Connect with me:</h2>
+<h3>Connect with me:</h3>
 
 - <a href="https://linkedin.com/in/kiriltucker" target="blank">LinkedIn</a>
 
