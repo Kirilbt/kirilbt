@@ -10,7 +10,7 @@
 
 👨‍💻 View my work on [kiril.ch](https://www.kiril.ch)
 
-
+---
 **Connect with me:**
 
 <a href="https://linkedin.com/in/kiriltucker" target="blank">LinkedIn</a> - <a href="https://twitter.com/kirilbt" target="blank">Twitter</a> - <a href="https://codepen.io/kirilbt" target="blank">Codepen</a> - <a href="https://vercel.com/kirilbt" target="blank">Vercel</a> - <a href="https://dribbble.com/kirilbt" target="blank">Dribble</a>
