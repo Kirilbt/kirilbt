@@ -6,9 +6,10 @@
 
 🌱 I’m currently learning Vue.js and Three.js (Udemy course by Maximilian Schwarzmüller and threejs-journey by Bruno Simon)
 
+🌎 I speak French, Spanish and English fluently
+
 👨‍💻 View my work on [kiril.ch](https://www.kiril.ch)
 
-🌎 I speak French, Spanish and English fluently
 
 **Connect with me:**
 
