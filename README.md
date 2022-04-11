@@ -15,7 +15,7 @@
 <a href="https://linkedin.com/in/kiriltucker" target="blank">LinkedIn</a> - <a href="https://twitter.com/kirilbt" target="blank">Twitter</a> - <a href="https://codepen.io/kirilbt" target="blank">Codepen</a> - <a href="https://vercel.com/kirilbt" target="blank">Vercel</a> - <a href="https://dribbble.com/kirilbt" target="blank">Dribble</a>
 
 ---
-**Some of the tools I'm using:**
+**Languages and tools:**
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
