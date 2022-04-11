@@ -6,7 +6,7 @@
 
 🌱 I’m currently learning Vue.js and Three.js (Udemy course by Maximilian Schwarzmüller and threejs-journey by Bruno Simon)
 
-👨‍💻 View my work on [kiril.ch](https.//www.kiril.ch)
+👨‍💻 View my work on [kiril.ch](https://www.kiril.ch)
 
 📄 You can view my experiences on [linkedin](https://www.linkedin.com/in/kiriltucker/)
 
