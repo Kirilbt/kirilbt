@@ -1,12 +1,11 @@
 <h1>Hey, I'm Kiril</h1>
 <h3>A passionate freelance UI designer & frontend developer from Switzerland</h3>
 
-
-🔭 I’m open for a job or internship as a frontend dev
-
 🌱 I’m currently learning Vue.js and Three.js (Udemy course by Maximilian Schwarzmüller and threejs-journey by Bruno Simon)
 
 🌎 I speak French, Spanish and English fluently
+
+🔭 I’m open for a job or internship as a frontend dev
 
 
 ---
