@@ -8,15 +8,27 @@
 
 🌎 I speak French, Spanish and English fluently
 
-👨‍💻 View my work on [kiril.ch](https://www.kiril.ch)
 
 ---
-**Connect with me:**
+**👋  Get in touch**
 
-<a href="https://linkedin.com/in/kiriltucker" target="blank">LinkedIn</a> - <a href="https://twitter.com/kirilbt" target="blank">Twitter</a> - <a href="https://codepen.io/kirilbt" target="blank">Codepen</a> - <a href="https://vercel.com/kirilbt" target="blank">Vercel</a> - <a href="https://dribbble.com/kirilbt" target="blank">Dribble</a>
+- <a href="https://linkedin.com/in/kiriltucker" target="blank">LinkedIn</a>
+- <a href="https://twitter.com/kirilbt" target="blank">Twitter</a>
+- <a href="https://vercel.com/kirilbt" target="blank">Vercel</a>
+- <a href="https://codepen.io/kirilbt" target="blank">Codepen</a>
+- <a href="https://dribbble.com/kirilbt" target="blank">Dribble</a>
 
 ---
-**Languages and tools:**
+**🎨  Playground**
+Small things I create while learning
+
+- [3D text](https://www.kiril.ch/) (three.js)
+- [Galaxy Generator](https://19-galaxy-generator-nu.vercel.app/) (three.js)
+- [Particles Wave](https://particles-omega.vercel.app/) (three.js)
+- [Haunted House - Lighting exploration](https://17-haunted-house-one.vercel.app/) (three.js)
+
+---
+**🛠  Languages and tools:**
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
