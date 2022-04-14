@@ -21,6 +21,7 @@
 **🎨  Playground**
 Small things I create while learning
 
+- [Scroll Based Animation](https://scroll-based-animation-weld.vercel.app/) (three.js) - Thu 14 Apr
 - [3D text](https://www.kiril.ch/) (three.js)
 - [Galaxy Generator](https://19-galaxy-generator-nu.vercel.app/) (three.js)
 - [Particles Wave](https://particles-omega.vercel.app/) (three.js)
