@@ -21,7 +21,7 @@
 **🎨  Playground**
 Small things I create while learning
 
-- [3D Particles Models with Transitions](https://3d-particles-models-with-transitions.vercel.app/) (three.js) - Tue 19 Apr
+- [3D Particles Models with Transitions](https://3d-particles-models-with-transitions.vercel.app/) (three.js, gsap) - Tue 19 Apr
 - [Scroll Based Animation](https://scroll-based-animation-weld.vercel.app/) (three.js) - Thu 14 Apr
 - [3D Text](https://www.kiril.ch/) (three.js)
 - [Galaxy Generator](https://19-galaxy-generator-nu.vercel.app/) (three.js)
