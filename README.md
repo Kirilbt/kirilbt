@@ -21,6 +21,7 @@
 **🎨  Playground**
 Small things I create while learning
 
+- [Small Monster Slayer Game](https://kirilbt.github.io/monster-slayer/) (vue.js) - Thu 28 Apr
 - [3D Particles Models with Transitions](https://3d-particles-models-with-transitions.vercel.app/) (three.js, gsap) - Tue 19 Apr
 - [Scroll Based Animation](https://scroll-based-animation-weld.vercel.app/) (three.js, gsap) - Thu 14 Apr
 - [3D Text](https://www.kiril.ch/) (three.js)
