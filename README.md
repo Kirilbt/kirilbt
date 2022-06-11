@@ -20,6 +20,7 @@
 **🎨  Playground**
 Small things I create while learning
 
+- [Distort Content on Scroll](https://codepen.io/kirilbt/pen/dydQwJp) (js) - Sat 11 Jun
 - [Marquee Animation](https://codepen.io/kirilbt/pen/rNJjpRQ) (js) - Mon 16 May
 - [Monster Slayer Game](https://kirilbt.github.io/monster-slayer/) (vue.js) - Thu 28 Apr
 - [3D Particles Models with Transitions](https://3d-particles-models-with-transitions.vercel.app/) (three.js, gsap) - Tue 19 Apr
