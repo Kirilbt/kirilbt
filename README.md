@@ -20,6 +20,7 @@
 **🎨  Playground**
 Small things I create while learning
 
+- [Text Trail Effect of Mousemove](https://codepen.io/kirilbt/full/XWZojKG) (gsap) - Sun 12 Jun
 - [Distort Content on Scroll](https://codepen.io/kirilbt/full/dydQwJp) (js) - Sat 11 Jun
 - [Marquee Animation](https://codepen.io/kirilbt/full/rNJjpRQ) (js) - Mon 16 May
 - [Monster Slayer Game](https://kirilbt.github.io/monster-slayer/) (vue.js) - Thu 28 Apr
