@@ -20,6 +20,7 @@
 **🎨  Playground**
 Small things I create while learning
 
+- [Fullscreen Overlay Navigation](https://codepen.io/kirilbt/full/ZErVqbz) (gsap) - Mon 13 Jun
 - [Text Trail Effect of Mousemove](https://codepen.io/kirilbt/full/XWZojKG) (gsap) - Sun 12 Jun
 - [Distort Content on Scroll](https://codepen.io/kirilbt/full/dydQwJp) (js) - Sat 11 Jun
 - [Marquee Animation](https://codepen.io/kirilbt/full/rNJjpRQ) (js) - Mon 16 May
