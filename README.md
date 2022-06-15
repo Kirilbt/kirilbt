@@ -20,6 +20,7 @@
 **🎨  Playground**
 Small things I create while learning
 
+- [Ink Hover Effect on CSS Button](https://codepen.io/kirilbt/full/gOvqVgP) (css) - Wed 15 Jun
 - [Fullscreen Overlay Navigation](https://codepen.io/kirilbt/full/ZErVqbz) (gsap) - Mon 13 Jun
 - [Text Trail Effect of Mousemove](https://codepen.io/kirilbt/full/XWZojKG) (gsap) - Sun 12 Jun
 - [Distort Content on Scroll](https://codepen.io/kirilbt/full/dydQwJp) (js) - Sat 11 Jun
