@@ -20,6 +20,7 @@
 **🎨  Playground**
 Small things I create while learning
 
+- [Product Page](https://codepen.io/kirilbt/full/wvmwZWj) (css, gsap) -Tue 28 Jun
 - [Magnetic Button](https://codepen.io/kirilbt/full/WNzeayw) (js) - Mon 27 Jun
 - [Website Reveal Animation](https://codepen.io/kirilbt/full/JjpQMRy) (css, gsap) - Thu 23 Jun
 - [Animated Sticky Nav Bar](https://codepen.io/kirilbt/full/KKQYGjJ) (css) - Sun 19 Jun
