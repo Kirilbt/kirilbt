@@ -20,7 +20,7 @@
 **🎨  Playground**
 Small things I create while learning
 
-- [Animted Fox](https://animated-fox-red.vercel.app/#debug) (three.js) - Wed 6 Jul
+- [Animated Fox](https://animated-fox-red.vercel.app/#debug) (three.js) - Wed 6 Jul
 - [Minimalist Button Hover Effect](https://codepen.io/kirilbt/full/ZExbQvR) (css, js) - Mon 4 Jul
 - [Product Page](https://codepen.io/kirilbt/full/wvmwZWj) (css, gsap) - Tue 28 Jun
 - [Magnetic Button](https://codepen.io/kirilbt/full/WNzeayw) (js) - Mon 27 Jun
