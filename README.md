@@ -20,6 +20,7 @@
 **🎨  Playground**
 Small things I create while learning
 
+- [Infinite Marquee that Speeds Up on Scroll](https://codepen.io/kirilbt/full/ExEPEbZ) (css, js) - Thu 7 Jul
 - [Animated Fox](https://animated-fox-red.vercel.app/#debug) (three.js) - Wed 6 Jul
 - [Minimalist Button Hover Effect](https://codepen.io/kirilbt/full/ZExbQvR) (css, js) - Mon 4 Jul
 - [Product Page](https://codepen.io/kirilbt/full/wvmwZWj) (css, gsap) - Tue 28 Jun
