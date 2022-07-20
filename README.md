@@ -20,6 +20,7 @@
 **🎨  Playground**
 Small things I create while learning
 
+- [ScrollTrigger Animation](https://codepen.io/kirilbt/full/XWERgjg) (css, gsap) - Wed 20 Jul
 - [Menu Hover Animation](https://codepen.io/kirilbt/pen/MWVpLJW) (css, js) - Tue 19 Jul
 - [Infinite Marquee that Speeds Up on Scroll](https://codepen.io/kirilbt/full/ExEPEbZ) (css, js) - Thu 7 Jul
 - [Animated Fox](https://animated-fox-red.vercel.app/#debug) (three.js) - Wed 6 Jul
