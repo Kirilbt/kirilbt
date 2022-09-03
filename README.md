@@ -20,6 +20,7 @@
 **🎨  Playground**
 Small things I create while learning
 
+- [Flag Using Shaders](https://flag-with-shaders-g5uvdx5md-kirilbt.vercel.app/) (three.js, glsl) - Sat 3 Sep
 - [ScrollTrigger Animation](https://codepen.io/kirilbt/full/XWERgjg) (css, gsap) - Wed 20 Jul
 - [Menu Hover Animation](https://codepen.io/kirilbt/pen/MWVpLJW) (css, js) - Tue 19 Jul
 - [Infinite Marquee that Speeds Up on Scroll](https://codepen.io/kirilbt/full/ExEPEbZ) (css, js) - Thu 7 Jul
