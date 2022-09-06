@@ -20,6 +20,7 @@
 **🎨  Playground**
 Small things I create while learning
 
+- [Raging Sea](https://raging-sea-with-shaders.vercel.app/) (three.js, glsl) - Tue 6 Sep
 - [Flag Using Shaders](https://flag-with-shaders.vercel.app/) (three.js, glsl) - Sat 3 Sep
 - [ScrollTrigger Animation](https://codepen.io/kirilbt/full/XWERgjg) (css, gsap) - Wed 20 Jul
 - [Menu Hover Animation](https://codepen.io/kirilbt/pen/MWVpLJW) (css, js) - Tue 19 Jul
