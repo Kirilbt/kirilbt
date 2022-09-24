@@ -20,6 +20,8 @@
 **🎨  Playground**
 Small things I create while learning
 
+- [Translate, Scale and Rotate UI Elements Based on Scroll](https://awwwards-workshop-kiril.vercel.app/demo-2.html) - 22 Sep
+- [Custom Smooth Scrolling](https://awwwards-workshop-kiril.vercel.app/demo-1.html) - 22 Sep
 - [Raging Sea](https://raging-sea-with-shaders.vercel.app/) (three.js, glsl) - Tue 6 Sep
 - [Flag Using Shaders](https://flag-with-shaders.vercel.app/) (three.js, glsl) - Sat 3 Sep
 - [ScrollTrigger Animation](https://codepen.io/kirilbt/full/XWERgjg) (css, gsap) - Wed 20 Jul
