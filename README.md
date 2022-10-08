@@ -20,6 +20,7 @@
 **🎨  Playground**
 Small things I create while learning
 
+- [Modified Materials - Twisting Head](https://twisting-head.vercel.app) (three.js, glsl) - 8 Oct
 - [Animated Galaxy](https://animated-galaxy-five.vercel.app) (three.js, glsl) - 8 Oct
 - [Modern Responsive Landing Page Animation](https://codepen.io/kirilbt/full/abGGNyR) (css, gsap) - 1 Oct
 - [GLSL Shader Mask Based on Scroll](https://awwwards-workshop-kiril.vercel.app/demo-4.html) (js, ogl, glsl) - 24 Sep
