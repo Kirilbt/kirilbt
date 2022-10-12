@@ -20,7 +20,7 @@
 **🎨  Playground**
 Small things I create while learning
 
-- [Black Hole](https://awwwards-black-hole.vercel.app/) (three.js, glsl) - 12 OCt
+- [Black Hole](https://awwwards-black-hole.vercel.app/) (three.js, glsl) - 12 Oct
 - [Modified Materials - Head Twist](https://head-twist.vercel.app) (three.js, glsl) - 8 Oct
 - [Animated Galaxy](https://animated-galaxy-five.vercel.app) (three.js, glsl) - 8 Oct
 - [Modern Responsive Landing Page Animation](https://codepen.io/kirilbt/full/abGGNyR) (css, gsap) - 1 Oct
