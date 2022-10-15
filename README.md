@@ -20,6 +20,7 @@
 **🎨  Playground**
 Small things I create while learning
 
+- [Post-processing Passes](https://post-processing-seven.vercel.app/) (three.js, glsl) - 15 Oct
 - [Black Hole](https://awwwards-black-hole.vercel.app/) (three.js, glsl) - 12 Oct
 - [Modified Materials - Head Twist](https://head-twist.vercel.app) (three.js, glsl) - 8 Oct
 - [Animated Galaxy](https://animated-galaxy-five.vercel.app) (three.js, glsl) - 8 Oct
