@@ -21,7 +21,7 @@
 Small things I create while learning
 
 2023
-- [Loading & Points of Interests](https://loading-process-and-points-of-interest.vercel.app/) (three.js, gsap) - 13 Jan
+- [Loading Progress & Points of Interests](https://loading-progress-and-points-of-interest.vercel.app/) (three.js, gsap) - 13 Jan
 
 
 2022
