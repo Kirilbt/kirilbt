@@ -21,7 +21,7 @@
 Small things I create while learning
 
 2023
-- [Portal Scene](https://simple-portal-scene.vercel.app/) (three.js) - 28 Jan
+- [Portal Scene with Baked Texture](https://simple-portal-scene.vercel.app/) (three.js) - 28 Jan
 - [Loading Progress & Points of Interests](https://loading-progress-and-points-of-interest.vercel.app/) (three.js, gsap) - 13 Jan
 
 
