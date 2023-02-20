@@ -21,11 +21,13 @@
 Small things I create while learning
 
 2023
+- **[Interactive Map](https://plateforme10-interactive-map.vercel.app/) (three.js) - 17 Feb**
 - [Portal Scene with Baked Texture](https://simple-portal-scene.vercel.app/) (three.js) - 28 Jan
 - [Loading Progress & Points of Interests](https://loading-progress-and-points-of-interest.vercel.app/) (three.js, gsap) - 13 Jan
 
 
 2022
+- **[Bike Demo](https://bike-demo-threejs.vercel.app/) (three.js, gsap) - 29 Aug**
 - [Post-processing Passes](https://post-processing-seven.vercel.app/) (three.js, glsl) - 15 Oct
 - [Black Hole](https://awwwards-black-hole.vercel.app/) (three.js, glsl) - 12 Oct
 - [Modified Materials - Head Twist](https://head-twist.vercel.app) (three.js, glsl) - 8 Oct
