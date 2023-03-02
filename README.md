@@ -22,7 +22,7 @@ Small things I create while learning
 
 2023
 - **[Interactive Map](https://plateforme10-interactive-map.vercel.app/) (three.js) - 17 Feb**
-- [Portal Scene with Baked Texture](https://simple-portal-scene.vercel.app/) (three.js) - 28 Jan
+- [Portal Scene with Baked Texture](https://simple-portal-scene.vercel.app/) (three.js, glsl) - 2 Mar
 - [Loading Progress & Points of Interests](https://loading-progress-and-points-of-interest.vercel.app/) (three.js, gsap) - 13 Jan
 
 
