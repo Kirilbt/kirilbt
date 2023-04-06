@@ -21,12 +21,9 @@ Small things I create while learning
 2023
 - **[Interactive Map](https://plateforme10-interactive-map.vercel.app/) (three.js) - 17 Feb**
 - [Portal Scene with Baked Texture](https://simple-portal-scene.vercel.app/) (three.js, glsl) - 2 Mar
-- [Loading Progress & Points of Interests](https://loading-progress-and-points-of-interest.vercel.app/) (three.js, gsap) - 13 Jan
-
 
 2022
 - **[Bike Demo](https://bike-demo-threejs.vercel.app/) (three.js, gsap) - 29 Aug**
-- [Post-processing Passes](https://post-processing-seven.vercel.app/) (three.js, glsl) - 15 Oct
 - [Black Hole](https://awwwards-black-hole.vercel.app/) (three.js, glsl) - 12 Oct
 - [Modified Materials - Head Twist](https://head-twist.vercel.app) (three.js, glsl) - 8 Oct
 - [Animated Galaxy](https://animated-galaxy-five.vercel.app) (three.js, glsl) - 8 Oct
@@ -36,28 +33,17 @@ Small things I create while learning
 - [Translate, Scale and Rotate UI Elements Based on Scroll](https://awwwards-workshop-kiril.vercel.app/demo-2.html) (js) - 22 Sep
 - [Custom Smooth Scrolling](https://awwwards-workshop-kiril.vercel.app/demo-1.html) (js) - 22 Sep
 - [Raging Sea](https://raging-sea-with-shaders.vercel.app/) (three.js, glsl) - Tue 6 Sep
-- [Flag Using Shaders](https://flag-with-shaders.vercel.app/) (three.js, glsl) - Sat 3 Sep
 - [ScrollTrigger Animation](https://codepen.io/kirilbt/full/XWERgjg) (css, gsap) - Wed 20 Jul
-- [Menu Hover Animation](https://codepen.io/kirilbt/pen/MWVpLJW) (css, js) - Tue 19 Jul
-- [Infinite Marquee that Speeds Up on Scroll](https://codepen.io/kirilbt/full/ExEPEbZ) (css, js) - Thu 7 Jul
-- [Animated Fox](https://animated-fox-red.vercel.app/#debug) (three.js) - Wed 6 Jul
 - [Minimalist Button Hover Effect](https://codepen.io/kirilbt/full/ZExbQvR) (css, js) - Mon 4 Jul
 - [Product Page](https://codepen.io/kirilbt/full/wvmwZWj) (css, gsap) - Tue 28 Jun
 - [Magnetic Button](https://codepen.io/kirilbt/full/WNzeayw) (js) - Mon 27 Jun
 - [Website Reveal Animation](https://codepen.io/kirilbt/full/JjpQMRy) (css, gsap) - Thu 23 Jun
-- [Animated Sticky Nav Bar](https://codepen.io/kirilbt/full/KKQYGjJ) (css) - Sun 19 Jun
 - [Ink Hover Effect on CSS Button](https://codepen.io/kirilbt/full/gOvqVgP) (css) - Wed 15 Jun
-- [Fullscreen Overlay Navigation](https://codepen.io/kirilbt/full/ZErVqbz) (gsap) - Mon 13 Jun
 - [Text Trail Effect of Mousemove](https://codepen.io/kirilbt/full/XWZojKG) (gsap) - Sun 12 Jun
 - [Distort Content on Scroll](https://codepen.io/kirilbt/full/dydQwJp) (js) - Sat 11 Jun
-- [Marquee Animation](https://codepen.io/kirilbt/full/rNJjpRQ) (js) - Mon 16 May
-- [Monster Slayer Game](https://kirilbt.github.io/monster-slayer/) (vue.js) - Thu 28 Apr
 - [3D Particles Models with Transitions](https://3d-particles-models-with-transitions.vercel.app/) (three.js, gsap) - Tue 19 Apr
 - [Scroll Based Animation](https://scroll-based-animation-weld.vercel.app/) (three.js, gsap) - Thu 14 Apr
 - [3D Text](https://www.kiril.ch/) (three.js)
-- [Galaxy Generator](https://19-galaxy-generator-nu.vercel.app/) (three.js)
-- [Particles Wave](https://particles-omega.vercel.app/) (three.js)
-- [Haunted House - Lighting exploration](https://17-haunted-house-one.vercel.app/) (three.js)
 
 ---
 **🛠  Languages and tools:**
@@ -70,12 +56,6 @@ Small things I create while learning
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
 ![Threejs](https://img.shields.io/badge/threejs-black?style=flat-square&logo=three.js&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat-square&logo=vercel&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat-square&logo=firebase)
-![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=flat-square&logo=ruby&logoColor=white)
-![Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=flat-square&logo=ruby-on-rails&logoColor=white)
-![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=flat-square&logo=heroku&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat-square&logo=bootstrap&logoColor=white)
-![Aseprite](https://img.shields.io/badge/Aseprite-FFFFFF?style=flat-square&logo=Aseprite&logoColor=#7D929E)
 ![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=flat-square&logo=sketch&logoColor=black)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white)
 ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=flat-square&logo=Adobe%20XD&logoColor=#FF61F6)
