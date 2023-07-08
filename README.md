@@ -19,6 +19,7 @@
 Small things I create while learning
 
 2023
+- **[Dynamic 3D Particles](https://dynamic-3d-particles-threejs.vercel.app/) (three.js, glsl) - 7 Jul**
 - **[Interactive Map](https://plateforme10-interactive-map.vercel.app/) (three.js) - 17 Feb**
 - [Hand with Blender Armature](https://hand-armature.vercel.app/) (three.js) - 22 May
 - [T-shirt Configurator](https://b8fd0h.csb.app/) (three.js, react, r3f, framer-motion) - 8 Apr
