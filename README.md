@@ -1,10 +1,7 @@
 <h1>Hey, I'm Kiril</h1>
 <h3>A passionate freelance UI designer & creative developer from Switzerland</h3>
 
-🌱 I’m currently learning React, Vue and Three.js
-
-🔭 I’m open for a job or internship as a frontend dev
-
+I’m currently learning React, R3F and Three.js
 
 ---
 **👋  Get in touch**
